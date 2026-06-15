@@ -1,4 +1,4 @@
-![Header]<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/f4a02c52-7b57-4339-afb3-e3482612b3ab" />
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/f4a02c52-7b57-4339-afb3-e3482612b3ab" />
 <h1 align="center">Hi 👋, I'm Namrata Lilaria</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
